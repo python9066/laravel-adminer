@@ -1,7 +1,24 @@
 {
     "name": "python/laravel-adminer",
     "description": "fixes database",
-    "license": "mit",
+    "keywords": [
+        "laravel5",
+        "laravel6",
+        "laravel7",
+        "laravel8",
+        "adminer",
+        "database",
+        "management",
+        "mysql",
+        "sqlite"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "f",
+            "email": "f@gon.com"
+        }
+    ],
      "require": {
         "php": ">=5.4.0",
         "illuminate/contracts": "~5.0|~6.0|~7.0|~8.0",
